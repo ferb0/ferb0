@@ -1,7 +1,7 @@
 <img src="./banner.jpg" />
 
 # Hola, Mi nombre es Fernando 👋
-Desarrollador web novato. Con muchas ganas de aprender y crear nuevos proyectos.
+Desarrollador Web Full Stack. Con muchas ganas de aprender y crear nuevos proyectos.
 
 ## Las técnologías y herramientas que he aprendido a utilizar:
 <p align="left">
